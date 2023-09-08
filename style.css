@@ -21,3 +21,16 @@ button {
 button {
     cursor: pointer;
 }
+
+
+section {
+    width: 95%;
+    border: 1px solid #333;
+    margin: 50px auto;
+    padding: 50px;
+
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
